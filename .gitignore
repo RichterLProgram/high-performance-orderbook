@@ -1,0 +1,22 @@
+# Build
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+Makefile
+*.cmake
+*.o
+*.obj
+*.exe
+*.out
+
+# IDE
+.vscode/
+*.code-workspace
+*.sln
+*.vcxproj*
+*.user
+
+# Temp Data
+*.swp
+*.tmp
+*.log
